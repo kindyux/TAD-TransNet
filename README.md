@@ -1,5 +1,7 @@
 # TAD-TransNet
-This repository provides the official PyTorch implementation of the TGRS paper “Infrared Small Target Detection Based on Temperature-Inversion-Guided Multi-Task Learning.
+This repository provides the official PyTorch implementation of our work
+“Infrared Small Target Detection Based on Temperature-Inversion-Guided Multi-Task Learning”.
+The manuscript is currently under peer review; the final publication venue will be updated once confirmed.
 
 Only the three public datasets used in the paper are provided here; the remaining two are proprietary and have not been released.
 
